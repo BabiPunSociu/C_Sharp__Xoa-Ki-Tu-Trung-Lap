@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\XoaKiTuTrungLap\XoaKiTuTrungLap\bin\Debug\net6.0\XoaKiTuTrungLap.exe
+C:\Users\ADMIN\source\repos\XoaKiTuTrungLap\XoaKiTuTrungLap\bin\Debug\net6.0\XoaKiTuTrungLap.deps.json
+C:\Users\ADMIN\source\repos\XoaKiTuTrungLap\XoaKiTuTrungLap\bin\Debug\net6.0\XoaKiTuTrungLap.runtimeconfig.json
+C:\Users\ADMIN\source\repos\XoaKiTuTrungLap\XoaKiTuTrungLap\bin\Debug\net6.0\XoaKiTuTrungLap.dll
+C:\Users\ADMIN\source\repos\XoaKiTuTrungLap\XoaKiTuTrungLap\bin\Debug\net6.0\XoaKiTuTrungLap.pdb
+C:\Users\ADMIN\source\repos\XoaKiTuTrungLap\XoaKiTuTrungLap\obj\Debug\net6.0\XoaKiTuTrungLap.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\XoaKiTuTrungLap\XoaKiTuTrungLap\obj\Debug\net6.0\XoaKiTuTrungLap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\XoaKiTuTrungLap\XoaKiTuTrungLap\obj\Debug\net6.0\XoaKiTuTrungLap.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\XoaKiTuTrungLap\XoaKiTuTrungLap\obj\Debug\net6.0\XoaKiTuTrungLap.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\XoaKiTuTrungLap\XoaKiTuTrungLap\obj\Debug\net6.0\XoaKiTuTrungLap.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\XoaKiTuTrungLap\XoaKiTuTrungLap\obj\Debug\net6.0\XoaKiTuTrungLap.dll
+C:\Users\ADMIN\source\repos\XoaKiTuTrungLap\XoaKiTuTrungLap\obj\Debug\net6.0\refint\XoaKiTuTrungLap.dll
+C:\Users\ADMIN\source\repos\XoaKiTuTrungLap\XoaKiTuTrungLap\obj\Debug\net6.0\XoaKiTuTrungLap.pdb
+C:\Users\ADMIN\source\repos\XoaKiTuTrungLap\XoaKiTuTrungLap\obj\Debug\net6.0\XoaKiTuTrungLap.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\XoaKiTuTrungLap\XoaKiTuTrungLap\obj\Debug\net6.0\ref\XoaKiTuTrungLap.dll
